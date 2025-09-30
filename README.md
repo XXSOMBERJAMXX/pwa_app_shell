@@ -13,6 +13,8 @@
 ## 🚀 Instalación y Uso
 
 ```bash
+#clonar repositorio de github
+git clone https://github.com/XXSOMBERJAMXX/pwa_app_shell.git
 # abrir carpeta
 cd pwa-app-shell
 
